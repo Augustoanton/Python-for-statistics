@@ -18,7 +18,7 @@ Instalación rápida:
 
 1. Cloná el repositorio:
 ```bash
-   git clone [<url-del-repo>](https://github.com/Augustoanton/Python-for-statistics/blob/main/Python.ipynb)
+   git clone https://github.com/Augustoanton/Python-for-statistics/blob/main/Python.ipynb
 ```
 2. Abrí el notebook con Jupyter o en Google Colab:
 ```bash
